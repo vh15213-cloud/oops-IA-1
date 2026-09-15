@@ -2,7 +2,7 @@ OOP Innovative Assignment 1
 
 Student Details:
 
-Name: Bhuvi
+Name: Bhuvaneshwari
 GitHub Username: vh15213-cloud
 Language: Java
 JDK: 26.0.2.1
